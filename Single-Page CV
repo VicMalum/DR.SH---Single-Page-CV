@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Single-page CV</title>
+</head>
+<body>
+    <section class="Personal-information">
+        <h1>Alex Carter</h1>
+        <p>📍 *123 Developer Lane, Codeville, CV 10101*
+📧 alex.carter@example.com | 📞 *(555) 123-4567*
+🔗 LinkedIn | Portfolio</p>
+        <h2>Full-stack Web Developer</h2>
+        <p>Passionate about building responsive, scalable, and user-friendly web applications with modern technologies</p>
+    </section>
+    <br>
+    <section class="technical-skills">
+        <h3>technical-skills</h3>
+        <ul>
+            <li>frontend: HTML5, CSS3, JavaScript (ES6+), React, Vue.js, Tailwind CSS</li>
+            <li>Backend: Node.js, Express, Python (Django, Flask), PHP (Laravel)</li>
+            <li>Databases: MongoDB, PostgreSQL, MySQL, Firebase</li>
+            <li>DevOps & Tools: Git, Docker, AWS, CI/CD (GitHub Actions), Jest, Figma</li>
+            <li>Other: RESTful APIs, GraphQL, WebSockets, Agile/Scrum</li>
+        </ul>
+    </section>
+    <br>
+    <section class="Professional Experience">
+        <h3>Professional Experience</h3>
+        <Ul>
+            <li>
+                <h4>Senior Web Developer</h4>
+                <p>TechSolutions Inc. - San Francisco, CA | Jan 2021 - Present</p>
+                <ul>
+                    <li>Led a team of 5 developers to build a SaaS platform using React + Node.js, improving client retention by 30%.</li>
+                    <li>Optimized frontend performance, reducing load times by 40% using lazy loading and code splitting.</li>
+                    <li>Integrated Stripe API for payment processing, handling 50K+ monthly transactions.</li>
+                </ul>
+                <br>
+                <h4>Web Developer</h4>
+                <p>Digital Creations – Austin, TX | Mar 2018 – Dec 2020</p>
+                <ul>
+                    <li>Developed 20+ responsive websites for clients using Vue.js & Laravel.</li>
+                    <li>Migrated legacy PHP systems to modern React applications, improving scalability.</li>
+                    <li>Collaborated with UX designers to implement Figma prototypes into production-ready code.</li>
+                </ul>
+            </li>
+        </Ul>
+    </section>
+    <br>
+    <section class="Projects">
+        <h3>Projects</h3>
+        <h5>E-Commerce Dashboard (Personal Project)</h5>
+        <ul>
+            <li>Built with MERN stack (MongoDB, Express, React, Node.js)</li>
+            <li>Features real-time analytics, JWT authentication, and admin panel.</li>
+            <li>Live Demo | GitHub</li>
+        </ul>
+        <h5>Task Management App</h5>
+        <ul>
+            <li>Developed with Vue.js & Firebase for seamless real-time updates.</li>
+            <li>Supports drag-and-drop tasks, user roles, and notifications.</li>
+        </ul>
+    </section>
+    <br>
+    <section class="Education">
+        <h3>Education</h3>
+        <h5> B.Sc. in Computer Science</h5>
+        <p>University of Techville | 2014 – 2018</p>
+    </section>
+    <br>
+    <section class="Certifications">
+        <h3>Certifications</h3>
+        <ul>
+            <li>AWS Certified Developer – Associate (2023)</li>
+            <li>Google Professional Frontend Developer (2022)</li>
+        </ul>
+    </section>
+    <br>
+    <section class="Languages">
+        <ul>
+            <li>English (Native)</li>
+            <li>Spanish (Intermediate)</li>
+        </ul>
+    </section>
+</body>
+</html>
